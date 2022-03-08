@@ -1,0 +1,120 @@
+section{
+    font-family: poppins,sans-serif;
+}
+.top-banner{
+    height: 576px;
+    
+    background-color:rgb(234, 255, 239);    
+}
+.logo{
+    width: 150px;
+    height: 50px;
+}
+.top{
+    margin-top: 100px;
+}
+.Illustration img{
+    width: 554px;
+    height: 346px;
+}
+.top-margin{
+    margin-top: 70px;
+}
+.get-start{
+    background-color: rgb(86, 207, 86);
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: white;
+}
+.sign-in{
+    
+    background-color: rgb(86, 207, 86);
+    padding: 5px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+/* end */
+
+.cat-marg{
+    margin-top: 50px;
+}
+.book{
+    width: 66px;
+    height: 85px;
+    margin-top: 30PX;
+    margin-left: 100px;
+}
+.card-beg{
+    background-color: #EAFFEF;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.card-beg2{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(156, 143, 143);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.text{
+    margin-left: 50px;
+}
+.pic-pad{
+    padding: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+/* end */
+.test-marg{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.test-pic{
+    width: 20opx;
+    height: 200px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.test-marg-comment{
+    margin-top: 50px;
+}
+/* end */
+
+.last-box{
+    height: 370px;
+    background-color:rgb(40,37,49);
+    color: white;
+    
+}
+.last-pad1{
+    padding-top: 70px;
+    padding-left: 300px;
+
+}
+.last-pad2{
+padding-top: 70px;
+}
+
+footer{
+    text-align: center;
+    padding-top:80px ;
+}
+
+
